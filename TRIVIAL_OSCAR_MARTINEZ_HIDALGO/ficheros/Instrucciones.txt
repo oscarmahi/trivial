@@ -1,0 +1,29 @@
+Instrucciones del Juego de preguntas Trivial de .Miteris
+-----------------------------------------------------------------------------------------------------------
+El juego consta del siguiente Menú de Opciones:
+    1.- Jugar al juego: esta opción lanza el juego. Consiste en una serie de preguuntas con tres posibles
+    opciones de respuesta, 1, 2 y 3. El jugador ha de teclear la respuesta elegida y el juego le diá en 
+    ese momento si la respuesta es correcta o no. Si es correcta se le asignará un punto y sino 0 puntos.
+    Una vez terminado de jugar el juego le preguntará si quiere dar su nombre de jugador y su autorización
+    para escribir el resultado en un ranking de puntos.
+    Existe la posibilidad de grabar y mostrar al jugador un informe de su partida en .pdf.
+
+    2.- Añadir pregunta: Esta opción se utiliza para añadir nuevas preguntas al juego. Se pedirá tanto la
+    pregunta como los tres posibles resultados y la opción correcta.
+
+    3.- Importar preguntas. Con esta opción se pueden importar una serie de preguntas que se encuentran en 
+    un archivo Excel .xls. El formato de cada fila es:
+    
+    fila 0      fila1       fila2       fila3       fila4       fila5
+    pregunta   respuesta1  respuesta2  respuesta3  respuesta4  opcion correcta
+
+    Puedes tener tantas filas como preguntas quieras añadir.
+    
+    4.- Ver records: esta opción muestra un listado por pantalla de las puntuaciones ordenadas de mayor a 
+    menor con los nombres de jugadores
+
+    5.- Instrucciones: muestra este fichero por pantalla.
+
+    6.- Salir: cierra el juego.
+
+    

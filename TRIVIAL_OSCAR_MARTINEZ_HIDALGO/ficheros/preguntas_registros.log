@@ -1,0 +1,30 @@
+
+20:57:21,118 DEBUG ClaseLog:31 dam2.add.p21.Main main- Inicio del programa
+23:27:28,017 DEBUG ClaseLog:30 dam2.add.p21.Main main- Inicio del programa
+08:40:21,908 DEBUG ClaseLog:30 dam2.add.p21.Main main- Inicio del programa
+08:40:40,205 DEBUG ClaseLog:125 dam2.add.p21.Main main- Fin del programa
+08:41:14,339 DEBUG ClaseLog:30 dam2.add.p21.Main main- Inicio del programa
+08:41:56,955 DEBUG ClaseLog:125 dam2.add.p21.Main main- Fin del programa
+08:57:19,096 DEBUG ClaseLog:30 dam2.add.p21.Main main- Inicio del programa
+08:57:25,648 DEBUG ClaseLog:37 dam2.add.p21.dao.PreguntaImplBBDD obtenerListaPreguntas- Consultar registros:
+08:58:20,069 DEBUG ClaseLog:30 dam2.add.p21.Main main- Inicio del programa
+08:58:24,452 DEBUG ClaseLog:37 dam2.add.p21.dao.PreguntaImplBBDD obtenerListaPreguntas- Consultar registros:
+08:58:24,452 DEBUG ClaseLog:40 dam2.add.p21.dao.PreguntaImplBBDD obtenerListaPreguntas- SELECT * FROM preguntas
+08:58:41,502 DEBUG ClaseLog:318 dam2.add.p21.dao.PreguntaImplBBDD existeRecord- Consultar registros de record:"
+08:58:41,521 DEBUG ClaseLog:264 dam2.add.p21.dao.PreguntaImplBBDD addRecord- Insertar registro
+08:58:58,369 DEBUG ClaseLog:125 dam2.add.p21.Main main- Fin del programa
+16:08:38,059 DEBUG ClaseLog:30 dam2.add.p21.Main main- Inicio del programa
+16:08:44,318 DEBUG ClaseLog:125 dam2.add.p21.Main main- Fin del programa
+17:29:17,225 DEBUG ClaseLog:30 curso.java.trivial.Trivial main- Inicio del programa
+17:29:25,598 DEBUG ClaseLog:125 curso.java.trivial.Trivial main- Fin del programa
+17:36:01,271 DEBUG ClaseLog:30 curso.java.trivial.Trivial main- Inicio del programa
+17:36:04,286 DEBUG ClaseLog:37 curso.java.trivial.dao.PreguntaImplBBDD obtenerListaPreguntas- Consultar registros:
+17:36:04,286 DEBUG ClaseLog:40 curso.java.trivial.dao.PreguntaImplBBDD obtenerListaPreguntas- SELECT * FROM preguntas
+17:40:16,446 DEBUG ClaseLog:125 curso.java.trivial.Trivial main- Fin del programa
+17:40:43,326 DEBUG ClaseLog:30 curso.java.trivial.Trivial main- Inicio del programa
+17:40:46,664 DEBUG ClaseLog:37 curso.java.trivial.dao.PreguntaImplBBDD obtenerListaPreguntas- Consultar registros:
+17:40:46,664 DEBUG ClaseLog:40 curso.java.trivial.dao.PreguntaImplBBDD obtenerListaPreguntas- SELECT * FROM preguntas
+17:41:13,835 DEBUG ClaseLog:318 curso.java.trivial.dao.PreguntaImplBBDD existeRecord- Consultar registros de record:"
+17:41:13,836 DEBUG ClaseLog:301 curso.java.trivial.dao.PreguntaImplBBDD addRecord- No grabado
+17:41:28,605 DEBUG ClaseLog:191 curso.java.trivial.dao.PreguntaImplBBDD listarRecords- Consultar registros:
+17:41:40,484 DEBUG ClaseLog:125 curso.java.trivial.Trivial main- Fin del programa

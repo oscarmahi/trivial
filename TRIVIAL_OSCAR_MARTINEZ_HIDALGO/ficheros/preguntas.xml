@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juego>
+  <pregunta>
+    <texto>Cuantas asignaturas hay en 2DAM</texto>
+    <respuesta1>10</respuesta1>
+    <respuesta2>5</respuesta2>
+    <respuesta3>6</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Colores bandera de Escocia</texto>
+    <respuesta1>3</respuesta1>
+    <respuesta2>2</respuesta2>
+    <respuesta3>1</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Nombre capital de Alemania</texto>
+    <respuesta1>Berlin</respuesta1>
+    <respuesta2>Hamburgo</respuesta2>
+    <respuesta3>Colonia</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Nombre profesor de ADD</texto>
+    <respuesta1>Carlos</respuesta1>
+    <respuesta2>David</respuesta2>
+    <respuesta3>Juan</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuantas estaciones de Metro hay en Madrid</texto>
+    <respuesta1>28</respuesta1>
+    <respuesta2>12</respuesta2>
+    <respuesta3>38</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>de que color es</texto>
+    <respuesta1>rojo</respuesta1>
+    <respuesta2>blanco</respuesta2>
+    <respuesta3>azul</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>pregunta de hoy ?</texto>
+    <respuesta1>si</respuesta1>
+    <respuesta2>no</respuesta2>
+    <respuesta3>quizas</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuantas asignaturas hay en 2DAM</texto>
+    <respuesta1>10</respuesta1>
+    <respuesta2>5</respuesta2>
+    <respuesta3>6</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Colores bandera de Escocia</texto>
+    <respuesta1>3</respuesta1>
+    <respuesta2>2</respuesta2>
+    <respuesta3>1</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Nombre capital de Alemania</texto>
+    <respuesta1>Berlin</respuesta1>
+    <respuesta2>Hamburgo</respuesta2>
+    <respuesta3>Colonia</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Nombre profesor de ADD</texto>
+    <respuesta1>Carlos</respuesta1>
+    <respuesta2>David</respuesta2>
+    <respuesta3>Juan</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuantas estaciones de Metro hay en Madrid</texto>
+    <respuesta1>28</respuesta1>
+    <respuesta2>12</respuesta2>
+    <respuesta3>38</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>ultima pregunta</texto>
+    <respuesta1>si</respuesta1>
+    <respuesta2>no</respuesta2>
+    <respuesta3>a lo mejor</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+</juego>
+

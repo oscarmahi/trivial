@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juego>
+	<pregunta>
+		<texto>Texto de la pregunta 1</texto>
+		<respuesta1>Respuesta 1</respuesta1>
+		<respuesta2>Respuesta 2</respuesta2>
+		<respuesta3>Respuesta 3</respuesta3>
+		<correcta>1</correcta>
+	</pregunta>
+	<pregunta>
+		<texto>Texto de la pregunta 2</texto>
+		<respuesta1>Respuesta 1</respuesta1>
+		<respuesta2>Respuesta 2</respuesta2>
+		<respuesta3>Respuesta 3</respuesta3>
+		<correcta>1</correcta>
+	</pregunta>
+	<pregunta>
+		<texto>Texto de la pregunta 3</texto>
+		<respuesta1>Respuesta 1</respuesta1>
+		<respuesta2>Respuesta 2</respuesta2>
+		<respuesta3>Respuesta 3</respuesta3>
+		<correcta>1</correcta>
+	</pregunta>
+</juego>
